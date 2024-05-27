@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=cs,java,nodejs,redis,jquery,js,html,css,bootstrap,react,angular,mongodb,npm,rabbitmq,ts,git" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,dotnet,postgres,azure,postman,bitbucket,github,jenkins,docker,nginx,notion" /><br>
 </div>
 
 <br/>
