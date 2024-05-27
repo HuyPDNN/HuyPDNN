@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HuyPDNN.HuyPDNN" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Huy+Pham+🤵;+I'm+From+Danang+City+🌇;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Vietnam 🇨🇦</h3>
@@ -17,9 +17,9 @@
 💬 Ask me about **C#, .NET, SQL... or anything [here](https://github.com/HuyPDNN/HuyPDNN/issues)**
 
 ⚡ Pursuing passion for programming. 
-⚡ Try to learning as much as possible and doing my best in order to accompish my task. 
-⚡ To have good opportunities to get promotion in my job. 
-⚡ Develop my skills with development of company, I want to prove myself.
+Try to learning as much as possible and doing my best in order to accompish my task. 
+To have good opportunities to get promotion in my job. 
+Develop my skills with development of company, I want to prove myself.
 
  </div>
  
